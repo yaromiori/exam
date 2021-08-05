@@ -1,0 +1,73 @@
+*
+.header {
+  background-color: lightgreen;
+}
+
+#ceit {
+  font-style           : normal;
+  text-decoration-color: #EFD0A0;
+}
+
+.ceit-logo {
+  width      : 55px;
+  height     : 55px;
+  padding-top: 10px;
+}
+.column-1
+{
+background-color: green;
+}
+
+.samsung
+{
+width:100px;
+height: 100px;
+}
+
+.iphone
+{
+width:100px;
+height: 100px;
+}
+.contact-us
+{
+background: green;
+}
+
+.advertisement
+{
+font-size: 18px;
+text-decoration-color: blue;
+font-style: italic;
+}
+.samsung-name ol
+{
+font-weight: bolder;
+font-size: 15px;
+}
+
+.iphone-name ol
+{
+font-weight: bolder;
+font-size: 15px;
+}
+
+.footersection {
+  background-color: lightgreen;
+}
+
+.course {
+  background   : black;
+  font: white;
+font-size: 18px;
+}
+.copy-right
+{
+background: black;
+}
+
+.contact {
+  background   : black;
+  font: white;
+font-size: 18px;
+}
